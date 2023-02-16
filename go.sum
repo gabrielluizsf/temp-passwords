@@ -1,0 +1,6 @@
+github.com/theGOURL/encrypting v0.0.0-20230209133258-53b9cecd829d h1:z66rkSzmYsA3d0jhEovDJJgjPcBPmqG5byJ+rpJhGys=
+github.com/theGOURL/encrypting v0.0.0-20230209133258-53b9cecd829d/go.mod h1:g/JQKDP7UBVfYi6loooL1+9SWfoICd32IV8Yv4XWvAM=
+github.com/theGOURL/warning v0.0.0-20230206172742-2a722314def1 h1:W3HTpLZlCNuCVHcXnxIysy3plHu/g1sdnhQ0spYN3fY=
+github.com/theGOURL/warning v0.0.0-20230206172742-2a722314def1/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
+golang.org/x/crypto v0.6.0 h1:qfktjS5LUO+fFKeJXZ+ikTRijMmljikvG68fpMMruSc=
+golang.org/x/crypto v0.6.0/go.mod h1:OFC/31mSvZgRz0V1QTNCzfAI1aIRzbiufJtkMIlEp58=
